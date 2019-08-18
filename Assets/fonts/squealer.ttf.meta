@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: defca972587b8824f83d34f55fcfc08a
+timeCreated: 1506528606
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Squealer
+  fontNames:
+  - Squealer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57b65bb3f7a76594e9cd01cf5450caf2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
